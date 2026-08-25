@@ -1,9 +1,13 @@
 {
-  "name": "exemplo_grid",
+  "name": "exemplogrid",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "exemplo-grid"
+  },
   "license": "ISC",
-  "author": "",
+  "author": "maria santos",
   "type": "module",
   "main": "index.js",
   "scripts": {
