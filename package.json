@@ -6,15 +6,19 @@
     "type": "git",
     "url": "exemplo-grid"
   },
+
   "license": "ISC",
   "author": "maria santos",
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "preview": "vite preview"
+    
   },
+
   "dependencies": {
     "bootstrap": "^5.3.8",
     "vite": "^8.2.1"
   }
+
 }
